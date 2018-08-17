@@ -6,6 +6,6 @@ Save the animals by switching them back. You will be given an array which will h
 
 Same goes for all the other arrays/lists that you will get in the tests: you have to change the element positions with the same exact logics - simples!
 
-The output should be two capital letters with a dot seperating them.
+The output will just reverse the array.
 
 https://www.codewars.com/kata/56f699cd9400f5b7d8000b55/solutions/javascript
